@@ -50,7 +50,8 @@ At NinjaOS.tech, we believe in the power of open source to transform ideas into 
 ## 📬 Contact
 Have questions, feedback, or ideas? Reach out to us:
 
-- **Email**: support@ninjaos.tech
+- **Email**: ninja@ninjaos.tech
+- **Telegram**: [ninjaonsteroids](https://t.me/ninjaonsteroids)
 - **GitHub**: [Divith123](https://github.com/Divith123)
 
 ## 📝 License
