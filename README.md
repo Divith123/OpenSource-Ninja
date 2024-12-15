@@ -16,7 +16,7 @@ A powerful, easy-to-use Telegram bot designed to help you filter, moderate, and 
 - **[GitHub Repository](https://github.com/Divith123/Filter-Bot)**
 
 ### 2. **Ninja Drive**
-A Google Drive clone built with Next.js, Firebase, Stripe, and Clerk, offering a feature-rich cloud storage experience.
+A Custom Drive built with Next.js, Firebase, Stripe, and Clerk, offering a feature-rich cloud storage experience.
 
 - **Features**:
   - Light and Dark Mode 🌓
