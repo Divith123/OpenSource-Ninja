@@ -1,6 +1,6 @@
-# Ninja Open Source Projects - Making Technology Accessible to Everyone
+# Ninja OpenSource - Making Technology Accessible to Everyone
 
-Welcome to **NinjaOS.tech**, a platform dedicated to hosting and sharing open-source projects that empower developers and users worldwide. Our mission is to create tools and applications that are not only powerful and efficient but also accessible to everyone.
+Welcome to **Ninja ( OpenSource )**, a platform dedicated to hosting and sharing open-source projects that empower developers and users worldwide. Our mission is to create tools and applications that are not only powerful and efficient but also accessible to everyone.
 
 ## 🚀 Featured Projects
 
